@@ -1,0 +1,91 @@
+# Ghosthread AI — Documentation License
+
+Copyright © 2026 M. Arslan. All rights reserved.
+
+This repository contains the official documentation for **Ghosthread AI**,
+a Windows 11 desktop automation engine. The documentation is published
+publicly so that users, developers, security researchers, and reviewers
+can read, verify, and reference it.
+
+The documentation is **not** the software. The Ghosthread AI software
+itself is proprietary and is not distributed through this repository.
+
+---
+
+## 1. What you may do with this documentation
+
+You are permitted to:
+
+- **Read** the documentation for any lawful purpose.
+- **Quote** short excerpts of the documentation with clear attribution
+  to *Ghosthread AI* and a link back to this repository or to
+  https://ghosthread.online.
+- **Share links** to any file in this repository.
+- **Reference** the documentation in articles, reviews, security
+  analyses, academic work, or journalism, provided attribution is given.
+- **Archive** the documentation for personal reference or for public
+  web archiving (e.g. the Internet Archive, archive.today).
+
+## 2. What you may not do with this documentation
+
+You may not:
+
+- **Copy** substantial portions of this documentation into another
+  product, website, or repository without written permission.
+- **Repackage** or **redistribute** the documentation as your own.
+- **Modify** the documentation and republish it as if it were official.
+- **Translate** the documentation into another language and publish the
+  translation as official Ghosthread AI documentation.
+- **Use** the documentation to train, fine-tune, or evaluate any machine
+  learning model for the purpose of building a competing product.
+  (Reading and citing the documentation as a normal user or researcher
+  is fine; using it as a training corpus for a competitor is not.)
+- **Remove** or alter any copyright, attribution, or trademark notice.
+
+## 3. The "Ghost" vocabulary is a trademark
+
+The following terms are used as protected brand identifiers of
+Ghosthread AI and may not be used to describe, market, or name any
+other product, service, or software:
+
+- Ghosthread
+- Ghosthread AI
+- Ghost Mode
+- Ghost Phantom
+- True Phantom
+- Ghost Lane
+- Ghost Photon
+- Ghost Prism
+- Focus Pre-Flight Guard
+- Sentry Mode
+- Air-Gap Mode
+- Typed Artifact Bus
+- Deterministic Policy Net
+
+Using these terms to accurately *describe* Ghosthread AI, or to
+*reference* Ghosthread AI in reviews, articles, or academic work, is
+permitted and encouraged. Using them to name a different product or to
+suggest affiliation is not.
+
+## 4. The software itself
+
+The Ghosthread AI software is proprietary, closed-source, and licensed
+separately under its own End User License Agreement. Nothing in this
+documentation license grants any right to the software, its source
+code, its algorithms, or its internal architecture.
+
+## 5. No warranty on the documentation
+
+The documentation is provided "as is", without warranty of any kind.
+It may contain errors, omissions, or information that becomes outdated
+as the software evolves. The author is not liable for any decision made
+on the basis of this documentation.
+
+## 6. Contact
+
+For permission requests, translation rights, or questions about this
+license, contact:
+
+**M. Arslan**
+marslanmushtaq7@gmail.com
+https://ghosthread.online
