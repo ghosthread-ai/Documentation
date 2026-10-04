@@ -1,6 +1,6 @@
 # End User License Agreement (EULA)
 
-**Effective:** January 1, 2026
+**Effective:** October 4, 2026
 **Licensor:** M. Arslan (independent developer)
 **Software:** Ghosthread AI for Windows 11
 

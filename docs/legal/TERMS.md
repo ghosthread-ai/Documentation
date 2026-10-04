@@ -1,7 +1,7 @@
 # Terms of Service
 
-**Effective:** January 1, 2026
-**Last updated:** January 1, 2026
+**Effective:** October 4, 2026
+**Last updated:** October 4, 2026
 **Software:** Ghosthread AI for Windows 11
 **Provider:** M. Arslan (independent developer)
 

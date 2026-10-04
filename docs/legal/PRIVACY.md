@@ -1,7 +1,7 @@
 # Privacy Policy
 
-**Effective:** January 1, 2026
-**Last updated:** January 1, 2026
+**Effective:** October 4, 2026
+**Last updated:** October 4, 2026
 **Provider:** M. Arslan (independent developer)
 
 This policy describes what data the Ghosthread AI software and the
