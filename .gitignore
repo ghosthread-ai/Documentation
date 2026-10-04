@@ -1,0 +1,35 @@
+# Ghosthread AI — Documentation Repository
+# -----------------------------------------
+
+# OS-generated clutter
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary / scratch files
+*.tmp
+*.bak
+*~
+~$*
+
+# Local environment files (never commit these)
+.env
+.env.local
+.env.*.local
+
+# Logs
+*.log
+
+# Node (only if a docs site build gets added later)
+node_modules/
+package-lock.json
+
+# Python (only if scripts get added to docs tooling later)
+__pycache__/
+*.py[cod]

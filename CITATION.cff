@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+title: Ghosthread AI — Official Documentation
+message: >-
+  If you reference Ghosthread AI in academic work, journalism, or a
+  security review, please cite the documentation using the metadata
+  below.
+type: software
+authors:
+  - family-names: Arslan
+    given-names: Muhammad
+    name-particle: M.
+    email: ghosthreadai@gmail.com
+    website: https://ghosthread.online
+    affiliation: "Ghosthread AI (independent project)"
+repository-code: "https://github.com/ghosthread-ai/Documentation"
+url: "https://ghosthread.online"
+license: LicenseRef-Proprietary
+license-url: "https://github.com/ghosthread-ai/Documentation/blob/main/LICENSE"
+keywords:
+  - windows automation
+  - desktop automation
+  - local-first software
+  - privacy-preserving automation
+  - focus-free automation
+  - Windows 11
+abstract: >-
+  Ghosthread AI is a local-first Windows 11 desktop automation engine
+  that operates applications in the background without stealing cursor
+  or keyboard focus. This repository contains the official
+  documentation: concepts, architecture, safety model, privacy
+  commitments, and legal terms.
+version: "1.0.0-beta"
+date-released: "2026-01-01"
