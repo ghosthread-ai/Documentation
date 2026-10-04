@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Security disclosure
+    url: https://github.com/ghosthread-ai/Documentation/blob/main/SECURITY.md
+    about: Please do not open a public issue for security problems. See SECURITY.md instead.
+  - name: Contact the author directly
+    url: mailto:ghosthreadai@gmail.com
+    about: For questions that don't fit the issue templates, email M. Arslan directly.
+  - name: Official website
+    url: https://ghosthread.online
+    about: Project homepage, waitlist, and roadmap.
