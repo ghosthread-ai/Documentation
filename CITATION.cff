@@ -6,9 +6,7 @@ message: >-
   below.
 type: software
 authors:
-  - family-names: Arslan
-    given-names: Muhammad
-    name-particle: M.
+  - names: Muhammad Arslan
     email: ghosthreadai@gmail.com
     website: https://ghosthread.online
     affiliation: "Ghosthread AI (independent project)"
