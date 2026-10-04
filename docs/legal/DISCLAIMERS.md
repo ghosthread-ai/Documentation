@@ -1,6 +1,6 @@
 # Disclaimers
 
-**Effective:** January 1, 2026
+**Effective:** October 4, 2026
 **Provider:** M. Arslan (independent developer)
 
 This page collects the warranty disclaimers, liability limitations,

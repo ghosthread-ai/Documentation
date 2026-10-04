@@ -1,6 +1,6 @@
 # Refund Policy
 
-**Effective:** January 1, 2026
+**Effective:** October 4, 2026
 
 Ghosthread AI is **free during the closed beta**. No payments are
 being accepted at this time, and no refunds are applicable because no

@@ -1,6 +1,6 @@
 # Trademark Notice
 
-**Effective:** January 1, 2026
+**Effective:** October 4, 2026
 **Owner:** M. Arslan (independent developer)
 
 The following terms are used as protected brand identifiers of

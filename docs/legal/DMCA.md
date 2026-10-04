@@ -1,6 +1,6 @@
 # Copyright and DMCA Notice
 
-**Effective:** January 1, 2026
+**Effective:** October 4, 2026
 **Copyright Owner:** M. Arslan
 
 Ghosthread AI and all associated documentation, terminology, and
